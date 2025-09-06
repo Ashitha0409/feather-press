@@ -1,6 +1,6 @@
 // API client for MySQL backend
-const API_BASE_URL = 'https://new-noox.onrender.com/api';
-export const API_ORIGIN = 'https://new-noox.onrender.com';
+export const API_BASE_URL = 'https://feather-press.onrender.com/api';
+export const API_ORIGIN = 'https://feather-press.onrender.com';
 
 export interface Post {
   id: number;
